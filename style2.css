@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(229, 225, 188);
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    text-align: center;
+    background-color: rgb(177, 148, 80);
+    padding: 10px;
+    width: 100%;
+    color: rgb(53, 32, 2);
+    font-family: cs;
+}
+th{
+    font-family: cs;
+}
+img{
+    width: 400px;
+    border-radius: 30px;
+    text-align: center;
+}
+table{
+    border: 2px rgb(80, 49, 11) dotted;
+    border-radius: 20px;
+    width: 98%;
+    text-align: center;
+ }
+ p{
+     text-align: left;
+     color: rgb(70, 40, 3);
+     font-family: gr;
+ }
+ video{
+    height: 400px;
+    margin-top: 40px;
+    border-radius: 40px;
+ }
+ @font-face{
+    font-family: cs;
+    src: url(Christmas\ ScriptC.ttf);
+}
+@font-face {
+    font-family: gr;
+    src: url(GardensC_03_1.otf);
+}
